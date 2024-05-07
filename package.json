@@ -1,6 +1,12 @@
 {
+  "name": "data-sandbox",
+  "version": "0.0.1",
+  "description": "A sandbox for working with data",
+  "jshintConfig": {
+    "esversion": 6,
+    "node": true
+  },
   "dependencies": {
-    "fast-csv":"^5.0.1",
-    "fs":"^0.0.1-security"
+    "fast-csv":"^5.0.1"
   }
 }
