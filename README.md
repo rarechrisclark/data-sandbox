@@ -22,4 +22,4 @@ A collection of scripts to manipulate data. The scripts are written in JavaScrip
 
 The transpose script reads a CSV file and transposes it. The script will only work with CSV files. The input file should be saved in the `./data/input` directory and the output will be saved in the `./data/output` directory.
 
-1. Run `node transpose.js <fileName>` (e.g. `node transpose.js placesFinal`) to transpose a CSV file.
+1. Run `node transpose.js <fileName>` (e.g. `node transpose.js demo`) to transpose a CSV file.
