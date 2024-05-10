@@ -13,7 +13,7 @@ if (!filename) {
 
 // Read the input file and write the output file
 const inputFilePath = `./data/input/${filename}.csv`;
-const outputFilePath = `./data/output/${filename}.csv`;
+const outputFilePath = `./data/output/transposed-${filename}.csv`;
 
 const writeStream = createWriteStream(outputFilePath);
 

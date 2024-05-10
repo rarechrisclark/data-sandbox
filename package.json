@@ -7,6 +7,7 @@
     "node": true
   },
   "dependencies": {
-    "fast-csv":"^5.0.1"
+    "fast-csv": "^5.0.1",
+    "readline": "^1.3.0"
   }
 }
